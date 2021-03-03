@@ -1,0 +1,7 @@
+f1.txt
+*.pdf
+!important.pdf
+folder/
+folder1/*.txt
+!folder1/important.txt
+**/*.c
